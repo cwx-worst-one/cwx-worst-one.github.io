@@ -28,15 +28,15 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 
 ## Selected Publications
 
-[My Google Scholar will be more up-to-date.](https://scholar.google.com/citations?user=7YPoSY0AAAAJ&hl=en)
+Check out my [Google Scholar](https://scholar.google.com/citations?user=7YPoSY0AAAAJ&hl=en) for more up-to-date information.
 
 
 <!-- *Speech Translation* -->
 
-**Cross-Modal Multi-Tasking for Speech-to-Text Translation via Hard Parameter Sharing**\
-<sub>**Brian Yan**, Xuankai Chang, Antonios Anastasopoulos, Yuya Fujita, Shinji Watanabe</sub>\
-<sub>*2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024*</sub>\
-<sub>[paper](https://arxiv.org/abs/2309.15826)</sub>
+**EAT: Self-Supervised Pre-Training with Efficient Audio Transformer**\
+<sub>**Wenxi Chen**, Yuzhe Liang, Ziyang Ma, Zhisheng Zheng, Xie Chen</sub>\
+<sub>*IJCAI, 2024*</sub>\
+<sub>[paper](https://arxiv.org/abs/2401.03497) / [code](https://github.com/cwx-worst-one/EAT)</sub>
 
 
 <!-- ***
@@ -53,10 +53,10 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 
 ## Activities
 
-*Talks*
+#### *Competition*
 
-[Controllable and Explainable End-to-End Speech Translation](https:assets/sigslt.pdf)\
-<sub>*SIG SLT Seminar, 2022*</sub>
+[IEEE ICME 2024 Grand Challenge Semi-supervised Acoustic Scene Classification under Domain Shift](https://ascchallenge.xshengyun.com/)  
+***Rank 2nd, Team Leader***
 
 
 
@@ -68,8 +68,7 @@ Reviewer\
 <sub>ICASSP, Interspeech, ASRU, EMNLP, NAACL, APSIPA, SLT</sub> -->
 
 ## CV
-
-Email: byan[at]cs.cmu.edu
+Here is my [CV](../assets/pdf/CV_陈文熙.pdf) (Chinese).
 
 
 ## Contact
