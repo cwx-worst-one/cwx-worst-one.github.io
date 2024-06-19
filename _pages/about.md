@@ -10,11 +10,9 @@ redirect_from:
 
 # About Me
 
-I'm a PhD student at the [Language Technologies Institute](https://lti.cs.cmu.edu) of the [School of Computer Science](https://cs.cmu.edu) at [Carnegie Mellon University](https://cmu.edu). I am advised by [Dr. Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe) as a member of [WAVLab](https://shinjiwlab.github.io).
+Hi! Here is Wenxi Chen (陈文熙). I am an undergraduate student of Shanghai Jiao Tong University (SJTU), majoring in computer science.  I am now working as a research intern at the [X-Lance Lab](https://x-lance.sjtu.edu.cn) at SJTU since 2023, supervised by Prof. [Xie Chen](https://chenxie95.github.io/).
 
-I'm generally interested in improving speech & language processing. My current projects involve **speech translation** and **multilingual speech recognition** with end-to-end neural networks.
-
-I also completed my master's degree at CMU SCS where I was advised by [Dr. Michael Shamos](http://euro.ecom.cmu.edu/shamos.html). Before that, I was a Technology Strategy Consultant at [Accenture](https://accenture.com/strategy/consulting). I completed my undergraduate degree in Economics and Computer Science at [The University of Chicago](https://uchicago.edu).
+I'm generally interested in understanding & generation in speech and audio, as well as multimodal large language model. My previous projects involve audio self-supervised learning, audio scene classification and audio captioning.  
 
 <!-- <p align="center">
   <img width="225" height="50" src="https:assets/logos.png">
@@ -53,10 +51,10 @@ Check out my [Google Scholar](https://scholar.google.com/citations?user=7YPoSY0A
 
 ## Activities
 
-#### *Competition*
+*Competition*
 
 [IEEE ICME 2024 Grand Challenge Semi-supervised Acoustic Scene Classification under Domain Shift](https://ascchallenge.xshengyun.com/)  
-***Rank 2nd, Team Leader***
+<sub>***Rank 2nd, Team Leader***</sub>
 
 
 
