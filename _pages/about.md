@@ -10,13 +10,11 @@ redirect_from:
 
 # About Me
 
-Hi! Here is Wenxi Chen (陈文熙). I am an undergraduate student of Shanghai Jiao Tong University (SJTU), majoring in computer science.  I am now working as a research intern at the [X-Lance Lab](https://x-lance.sjtu.edu.cn) at SJTU since 2023, supervised by Prof. [Xie Chen](https://chenxie95.github.io/).
+Hi! Here is Wenxi Chen (陈文熙). I am an undergraduate student at  Shanghai Jiao Tong University (SJTU), majoring in computer science.  Since 2023, I have been working as a research intern at the [X-Lance Lab](https://x-lance.sjtu.edu.cn) at SJTU, under the supervision of Prof. [Xie Chen](https://chenxie95.github.io/).
 
-I'm generally interested in understanding & generation in speech and audio, as well as multimodal large language model. My previous projects involve audio self-supervised learning, audio scene classification and audio captioning.  
 
-<!-- <p align="center">
-  <img width="225" height="50" src="https:assets/logos.png">
-</p> -->
+I'm generally interested in understanding & generation in speech and audio, as well as multimodal large language model. My previous projects have involved audio self-supervised learning, audio scene classification, and audio captioning.
+
 
 <!-- ## Recent News
 
@@ -26,7 +24,8 @@ I'm generally interested in understanding & generation in speech and audio, as w
 
 ## Selected Publications
 
-Check out my [Google Scholar](https://scholar.google.com/citations?user=7YPoSY0AAAAJ&hl=en) for more up-to-date information.
+For the most up-to-date information, please visit my [Google Scholar](https://scholar.google.com/citations?user=7YPoSY0AAAAJ&hl=en) profile.
+
 
 
 <!-- *Speech Translation* -->
@@ -53,8 +52,8 @@ Check out my [Google Scholar](https://scholar.google.com/citations?user=7YPoSY0A
 
 *Competition*
 
-[IEEE ICME 2024 Grand Challenge Semi-supervised Acoustic Scene Classification under Domain Shift](https://ascchallenge.xshengyun.com/)  
-<sub>***Rank 2nd, Team Leader***</sub>
+[IEEE ICME 2024 Challenge Semi-supervised Acoustic Scene Classification under Domain Shift](https://ascchallenge.xshengyun.com/)  
+<sub>***Ranked 2nd, Team Leader***</sub>
 
 
 
