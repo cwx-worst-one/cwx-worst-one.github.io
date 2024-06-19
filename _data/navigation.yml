@@ -1,13 +1,16 @@
 # main links links
 main:
-  - title: "News"
-    url: /#recent-news
+  - title: "Home"
+    url: /about
 
-  - title: "Research"
+  - title: "Publications"
     url: /#selected-publications
 
   - title: "Activities"
     url: /#activities
+
+  - title: "CV"
+    url: /#cv
 
   - title: "Contact"
     url: /#contact

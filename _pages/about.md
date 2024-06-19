@@ -13,15 +13,15 @@ I'm generally interested in improving speech & language processing. My current p
 
 I also completed my master's degree at CMU SCS where I was advised by [Dr. Michael Shamos](http://euro.ecom.cmu.edu/shamos.html). Before that, I was a Technology Strategy Consultant at [Accenture](https://accenture.com/strategy/consulting). I completed my undergraduate degree in Economics and Computer Science at [The University of Chicago](https://uchicago.edu).
 
-<p align="center">
+<!-- <p align="center">
   <img width="225" height="50" src="https:assets/logos.png">
-</p>
+</p> -->
 
-## Recent News
+<!-- ## Recent News
 
 * *June 2023*: Joining the [SCALE 2023 Workshop](https://hltcoe.jhu.edu/research/scale/scale-2023) at John's Hopkins University
 * *June 2022*: Joining the [JSALT 2022 Workshop](https://www.clsp.jhu.edu/2022-eighth-frederick-jelinek-memorial-summer-workshop/) at John's Hopkins University
-* *May 2021*: Interning at [Dr. Dong Yu's](https://sites.google.com/view/dongyu888/) AI lab at Tencent America
+* *May 2021*: Interning at [Dr. Dong Yu's](https://sites.google.com/view/dongyu888/) AI lab at Tencent America -->
 
 ## Selected Publications
 
@@ -136,6 +136,12 @@ CS 11-737: Multilingual NLP\
 Reviewer\
 <sub>ICASSP, Interspeech, ASRU, EMNLP, NAACL, APSIPA, SLT</sub>
 
+## CV
+
+Email: byan[at]cs.cmu.edu
+
+
 ## Contact
 
 Email: byan[at]cs.cmu.edu
+
