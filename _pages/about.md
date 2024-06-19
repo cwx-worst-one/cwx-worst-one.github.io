@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /
 title: "About Me"
 excerpt: "About me"
@@ -6,7 +6,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+--- -->
+
+# About Me
+
 I'm a PhD student at the [Language Technologies Institute](https://lti.cs.cmu.edu) of the [School of Computer Science](https://cs.cmu.edu) at [Carnegie Mellon University](https://cmu.edu). I am advised by [Dr. Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe) as a member of [WAVLab](https://shinjiwlab.github.io).
 
 I'm generally interested in improving speech & language processing. My current projects involve **speech translation** and **multilingual speech recognition** with end-to-end neural networks.
