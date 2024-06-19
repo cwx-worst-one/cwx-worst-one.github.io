@@ -58,11 +58,7 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 [Controllable and Explainable End-to-End Speech Translation](https:assets/sigslt.pdf)\
 <sub>*SIG SLT Seminar, 2022*</sub>
 
-[Code-Switched Modeling](https:assets/JSALT2022cs.pdf)\
-<sub>*JSALT Workshop, John's Hopkins University, 2022*</sub>
 
-[Building End-to-End Speech Translation Systems](https:assets/yan2022cmu.pdf)\
-<sub>*JSALT Workshop, John's Hopkins University, 2022*</sub>
 
 <!-- ***
 
@@ -73,9 +69,9 @@ Reviewer\
 
 ## CV
 
-
+Email: byan[at]cs.cmu.edu
 
 
 ## Contact
 
-Email: <a href="1029713857@sjtu.edu.cn">1029713857@sjtu.edu.cn</a>
+Email: <a href="mailto:1029713857@sjtu.edu.cn">1029713857@sjtu.edu.cn</a>
