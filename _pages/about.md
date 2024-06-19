@@ -64,35 +64,18 @@ I also completed my master's degree at CMU SCS where I was advised by [Dr. Micha
 [Building End-to-End Speech Translation Systems](https:assets/yan2022cmu.pdf)\
 <sub>*JSALT Workshop, John's Hopkins University, 2022*</sub>
 
-***
-
-*Teaching*
-
-CS 11-751: Speech Recognition and Understanding\
-<sub>Teaching Assistant</sub>\
-<sub>*Carnegie Mellon University, Fall 2023*</sub>
-
-CS 11-700: Language Technologies Institute Colloquium\
-<sub>Teaching Assistant</sub>\
-<sub>*Carnegie Mellon University, 2021-22 Academic Year*</sub>
-
-CS 11-737: Multilingual NLP\
-<sub>Teaching Assistant</sub>\
-<sub>*Carnegie Mellon University, Spring 2021 DSTA Course*</sub>
-
-***
+<!-- ***
 
 *Academic Service*
 
 Reviewer\
-<sub>ICASSP, Interspeech, ASRU, EMNLP, NAACL, APSIPA, SLT</sub>
+<sub>ICASSP, Interspeech, ASRU, EMNLP, NAACL, APSIPA, SLT</sub> -->
 
 ## CV
 
-Email: byan[at]cs.cmu.edu
+
 
 
 ## Contact
 
-Email: byan[at]cs.cmu.edu
-
+Email: <a href="1029713857@sjtu.edu.cn">1029713857@sjtu.edu.cn</a>
