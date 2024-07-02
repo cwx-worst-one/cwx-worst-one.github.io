@@ -60,7 +60,8 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 [IEEE ICME 2024 Challenge Semi-supervised Acoustic Scene Classification under Domain Shift](https://ascchallenge.xshengyun.com/)  
 <sub>***Ranked 2nd, Team Leader***</sub>
 
-
+[DCASE Challenge 2024 Task 6: Automated Audio Captioning](https://dcase.community/challenge2024/task-automated-audio-captioning-results)  
+<sub>***Ranked 3rd, Team Leader***</sub>
 
 <!-- ***
 
