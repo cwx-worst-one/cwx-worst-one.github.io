@@ -66,9 +66,9 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 ## Activities
 
 ### Experience
-Research Intern @ [Microsoft Research Asia (MSRA)](https://www.msra.cn/)
-NLC Group, Beijing, China
-<sub>*2024.9-CURRENT*</sub>
+Research Intern @ [Microsoft Research Asia (MSRA)](https://www.msra.cn/)  
+NLC Group, Beijing, China  
+<sub>*2024.9-CURRENT*</sub>  
 
 
 ### Competition
