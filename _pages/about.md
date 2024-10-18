@@ -25,13 +25,13 @@ I'm generally interested in understanding & generation in speech and audio, as w
 ## Selected Publications
 
 For the most up-to-date information, please visit my [Google Scholar](https://scholar.google.com/citations?user=7YPoSY0AAAAJ&hl=en) profile.  
-(* indicates equal contribution)
+($^*$ indicates equal contribution)
 
 
 <!-- *Speech Translation* -->
 
 **SLAM-AAC: Enhancing Audio Captioning with Paraphrasing Augmentation and CLAP-Refine through LLMs**\
-<sub>**Wenxi Chen***, Ziyang Ma*, Xiquan Li, Xuenan Xu, Yuzhe Liang, Zhisheng Zheng, Kai Yu, Xie Chen</sub>\
+<sub>**Wenxi Chen$^*$**, Ziyang Ma$^*$, Xiquan Li, Xuenan Xu, Yuzhe Liang, Zhisheng Zheng, Kai Yu, Xie Chen</sub>\
 <sub>*Preprint*</sub>\
 <sub>[paper](https://arxiv.org/abs/2410.09503) / [code](https://github.com/X-LANCE/SLAM-LLM/tree/main/examples/slam_aac)
 
