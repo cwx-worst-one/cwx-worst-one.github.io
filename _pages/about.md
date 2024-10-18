@@ -25,10 +25,20 @@ I'm generally interested in understanding & generation in speech and audio, as w
 ## Selected Publications
 
 For the most up-to-date information, please visit my [Google Scholar](https://scholar.google.com/citations?user=7YPoSY0AAAAJ&hl=en) profile.
-
+(* indicates equal contribution)
 
 
 <!-- *Speech Translation* -->
+
+**SLAM-AAC: Enhancing Audio Captioning with Paraphrasing Augmentation and CLAP-Refine through LLMs**\
+<sub>**Wenxi Chen***, Ziyang Ma*, Xiquan Li, Xuenan Xu, Yuzhe Liang, Zhisheng Zheng, Kai Yu, Xie Chen</sub>\
+<sub>*Preprint*</sub>\
+<sub>[paper](https://arxiv.org/abs/2410.09503) / [code](https://github.com/X-LANCE/SLAM-LLM/tree/main/examples/slam_aac)
+
+**DRCap: Decoding CLAP Latents with Retrieval-augmented Generation for Zero-shot Audio Captioning**\
+<sub>Xiquan Li, **Wenxi Chen**, Ziyang Ma, Xuenan Xu, Yuzhe Liang, Zhisheng Zheng, Qiuqiang Kong, Xie Chen</sub>\
+<sub>*Preprint*</sub>\
+<sub>[paper](https://arxiv.org/abs/2410.09472) / [code](https://github.com/X-LANCE/SLAM-LLM/tree/main/examples/drcap_zeroshot_aac)
 
 **EmoBox: Multilingual Multi-corpus Speech Emotion Recognition Toolkit and Benchmark**  
 <sub>Ziyang Ma, Mingjie Chen, Hezhao Zhang, Zhisheng Zheng, **Wenxi Chen**, Xiquan Li, Jiaxin Ye, Xie Chen, Thomas Hain</sub>\
@@ -55,13 +65,19 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 
 ## Activities
 
-*Competition*
+### Experience
+Research Intern @ [Microsoft Research Asia (MSRA)](https://www.msra.cn/)
+NLC Group, Beijing, China
+<sub>*2024.9-CURRENT*</sub>
+
+
+### Competition
 
 [IEEE ICME 2024 Challenge Semi-supervised Acoustic Scene Classification under Domain Shift](https://ascchallenge.xshengyun.com/)  
-<sub>***Ranked 2nd, Team Leader***</sub>
+<sub>*Ranked 2nd, Team Leader*</sub>
 
 [DCASE Challenge 2024 Task 6: Automated Audio Captioning](https://dcase.community/challenge2024/task-automated-audio-captioning-results)  
-<sub>***Ranked 3rd, Team Leader***</sub>
+<sub>*Ranked 3rd, Team Leader*</sub>
 
 <!-- ***
 
