@@ -24,7 +24,7 @@ I'm generally interested in understanding & generation in speech and audio, as w
 
 ## Selected Publications
 
-For the most up-to-date information, please visit my [Google Scholar](https://scholar.google.com/citations?user=7YPoSY0AAAAJ&hl=en) profile.
+For the most up-to-date information, please visit my [Google Scholar](https://scholar.google.com/citations?user=7YPoSY0AAAAJ&hl=en) profile.  
 (* indicates equal contribution)
 
 
