@@ -48,6 +48,7 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 
 **EAT: Self-Supervised Pre-Training with Efficient Audio Transformer**\
 <sub>**Wenxi Chen**, Yuzhe Liang, Ziyang Ma, Zhisheng Zheng, Xie Chen</sub>\
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/eat-self-supervised-pre-training-with/audio-classification-on-balanced-audio-set)](https://paperswithcode.com/sota/audio-classification-on-balanced-audio-set?p=eat-self-supervised-pre-training-with)
 <sub>*IJCAI, 2024*</sub>\
 <sub>[paper](https://arxiv.org/abs/2401.03497) / [code](https://github.com/cwx-worst-one/EAT)</sub>
 
