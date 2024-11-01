@@ -31,8 +31,8 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 <!-- *Speech Translation* -->
 
 **SLAM-AAC: Enhancing Audio Captioning with Paraphrasing Augmentation and CLAP-Refine through LLMs**\
-<sub>**Wenxi Chen\***, Ziyang Ma\*, Xiquan Li, Xuenan Xu, Yuzhe Liang, Zhisheng Zheng, Kai Yu, Xie Chen</sub>\
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/slam-aac-enhancing-audio-captioning-with/audio-captioning-on-audiocaps)](https://paperswithcode.com/sota/audio-captioning-on-audiocaps?p=slam-aac-enhancing-audio-captioning-with)  [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/slam-aac-enhancing-audio-captioning-with/audio-captioning-on-clotho)](https://paperswithcode.com/sota/audio-captioning-on-clotho?p=slam-aac-enhancing-audio-captioning-with)\
+<sub>**Wenxi Chen\***, Ziyang Ma\*, Xiquan Li, Xuenan Xu, Yuzhe Liang, Zhisheng Zheng, Kai Yu, Xie Chen</sub>\
 <sub>*Preprint*</sub>\
 <sub>[paper](https://arxiv.org/abs/2410.09503) / [code](https://github.com/X-LANCE/SLAM-LLM/tree/main/examples/slam_aac)
 
@@ -47,8 +47,8 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 <sub>[paper](https://arxiv.org/abs/2406.07162) / [code](https://github.com/emo-box/EmoBox)</sub>
 
 **EAT: Self-Supervised Pre-Training with Efficient Audio Transformer**\
-<sub>**Wenxi Chen**, Yuzhe Liang, Ziyang Ma, Zhisheng Zheng, Xie Chen</sub>\
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/eat-self-supervised-pre-training-with/audio-classification-on-balanced-audio-set)](https://paperswithcode.com/sota/audio-classification-on-balanced-audio-set?p=eat-self-supervised-pre-training-with)\
+<sub>**Wenxi Chen**, Yuzhe Liang, Ziyang Ma, Zhisheng Zheng, Xie Chen</sub>\
 <sub>*IJCAI, 2024*</sub>\
 <sub>[paper](https://arxiv.org/abs/2401.03497) / [code](https://github.com/cwx-worst-one/EAT)</sub>
 
