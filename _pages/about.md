@@ -44,7 +44,7 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 **EmoBox: Multilingual Multi-corpus Speech Emotion Recognition Toolkit and Benchmark**  
 <sub>Ziyang Ma, Mingjie Chen, Hezhao Zhang, Zhisheng Zheng, **Wenxi Chen**, Xiquan Li, Jiaxin Ye, Xie Chen, Thomas Hain</sub>\
 <sub>*Interspeech, 2024*</sub>\
-<sub>[paper](https://arxiv.org/abs/2406.07162) / [code](https://github.com/emo-box/EmoBox)</sub>
+<sub>[paper](https://www.isca-archive.org/interspeech_2024/ma24b_interspeech.pdf) / [code](https://github.com/emo-box/EmoBox)</sub>
 
 **EAT: Self-Supervised Pre-Training with Efficient Audio Transformer**\
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/eat-self-supervised-pre-training-with/audio-classification-on-balanced-audio-set)](https://paperswithcode.com/sota/audio-classification-on-balanced-audio-set?p=eat-self-supervised-pre-training-with)\
