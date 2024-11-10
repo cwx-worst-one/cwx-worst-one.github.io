@@ -88,6 +88,11 @@ NLC Group, Beijing, China
 Reviewer\
 <sub>ICASSP, Interspeech, ASRU, EMNLP, NAACL, APSIPA, SLT</sub> -->
 
+
+### Awards
+- Rongchang Science and Technology Innovation Scholarship, 2024
+
+
 ## CV
 Here is my [CV](../assets/pdf/CV_陈文熙.pdf) (Chinese).
 
