@@ -90,7 +90,7 @@ Reviewer\
 
 
 ### Awards
-- Rongchang Science and Technology Innovation Scholarship, 2024
+Rongchang Science and Technology Innovation Scholarship, 2024
 
 
 ## CV
