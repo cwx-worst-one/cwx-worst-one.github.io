@@ -13,7 +13,7 @@ redirect_from:
 Hi! Here is Wenxi Chen (陈文熙). I am an undergraduate student at  Shanghai Jiao Tong University (SJTU), majoring in computer science.  Since 2023, I have been working as a research intern at the [X-Lance Lab](https://x-lance.sjtu.edu.cn) at SJTU, under the supervision of Prof. [Xie Chen](https://chenxie95.github.io/).
 
 
-I'm generally interested in understanding & generation in speech and audio, as well as multimodal large language model. My previous projects have involved audio self-supervised learning, audio scene classification, and audio captioning.
+I'm generally interested in understanding & generation in speech and audio, as well as multimodal large language models. My previous projects have involved audio self-supervised learning, audio scene classification, audio captioning and end-to-end spoken dialogue models. 
 
 
 <!-- ## Recent News
@@ -29,16 +29,21 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 
 
 <!-- *Speech Translation* -->
+**SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**\
+<sub>**Wenxi Chen**, Ziyang Ma, Ruiqi Yan, Yuzhe Liang, Xiquan Li, Ruiyang Xu, Zhikang Niu, Yanqiao Zhu, Yifan Yang, Zhanxun Liu, Kai Yu, Yuxuan Hu, Jinyu Li, Yan Lu, Shujie Liu, Xie Chen</sub>\
+<sub>*Preprint*</sub>\
+<sub>[paper](https://arxiv.org/abs/2412.15649) 
+
 
 **SLAM-AAC: Enhancing Audio Captioning with Paraphrasing Augmentation and CLAP-Refine through LLMs**\
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/slam-aac-enhancing-audio-captioning-with/audio-captioning-on-audiocaps)](https://paperswithcode.com/sota/audio-captioning-on-audiocaps?p=slam-aac-enhancing-audio-captioning-with)  [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/slam-aac-enhancing-audio-captioning-with/audio-captioning-on-clotho)](https://paperswithcode.com/sota/audio-captioning-on-clotho?p=slam-aac-enhancing-audio-captioning-with)\
 <sub>**Wenxi Chen\***, Ziyang Ma\*, Xiquan Li, Xuenan Xu, Yuzhe Liang, Zhisheng Zheng, Kai Yu, Xie Chen</sub>\
-<sub>*Preprint*</sub>\
+<sub>*ICASSP, 2025*</sub>\
 <sub>[paper](https://arxiv.org/abs/2410.09503) / [code](https://github.com/X-LANCE/SLAM-LLM/tree/main/examples/slam_aac)
+<!-- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/slam-aac-enhancing-audio-captioning-with/audio-captioning-on-audiocaps)](https://paperswithcode.com/sota/audio-captioning-on-audiocaps?p=slam-aac-enhancing-audio-captioning-with)  [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/slam-aac-enhancing-audio-captioning-with/audio-captioning-on-clotho)](https://paperswithcode.com/sota/audio-captioning-on-clotho?p=slam-aac-enhancing-audio-captioning-with)\ -->
 
 **DRCap: Decoding CLAP Latents with Retrieval-augmented Generation for Zero-shot Audio Captioning**\
 <sub>Xiquan Li, **Wenxi Chen**, Ziyang Ma, Xuenan Xu, Yuzhe Liang, Zhisheng Zheng, Qiuqiang Kong, Xie Chen</sub>\
-<sub>*Preprint*</sub>\
+<sub>*ICASSP, 2025*</sub>\
 <sub>[paper](https://arxiv.org/abs/2410.09472) / [code](https://github.com/X-LANCE/SLAM-LLM/tree/main/examples/drcap_zeroshot_aac)
 
 **EmoBox: Multilingual Multi-corpus Speech Emotion Recognition Toolkit and Benchmark**  
@@ -47,10 +52,10 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 <sub>[paper](https://www.isca-archive.org/interspeech_2024/ma24b_interspeech.pdf) / [code](https://github.com/emo-box/EmoBox)</sub>
 
 **EAT: Self-Supervised Pre-Training with Efficient Audio Transformer**\
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/eat-self-supervised-pre-training-with/audio-classification-on-balanced-audio-set)](https://paperswithcode.com/sota/audio-classification-on-balanced-audio-set?p=eat-self-supervised-pre-training-with)\
 <sub>**Wenxi Chen**, Yuzhe Liang, Ziyang Ma, Zhisheng Zheng, Xie Chen</sub>\
 <sub>*IJCAI, 2024*</sub>\
 <sub>[paper](https://www.ijcai.org/proceedings/2024/0421.pdf) / [code](https://github.com/cwx-worst-one/EAT)</sub>
+<!-- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/eat-self-supervised-pre-training-with/audio-classification-on-balanced-audio-set)](https://paperswithcode.com/sota/audio-classification-on-balanced-audio-set?p=eat-self-supervised-pre-training-with)\ -->
 
 
 <!-- ***
