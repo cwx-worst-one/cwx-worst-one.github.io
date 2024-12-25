@@ -32,19 +32,19 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 **SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**\
 <sub>**Wenxi Chen**, Ziyang Ma, Ruiqi Yan, Yuzhe Liang, Xiquan Li, Ruiyang Xu, Zhikang Niu, Yanqiao Zhu, Yifan Yang, Zhanxun Liu, Kai Yu, Yuxuan Hu, Jinyu Li, Yan Lu, Shujie Liu, Xie Chen</sub>\
 <sub>*Preprint*</sub>\
-<sub>[paper](https://arxiv.org/abs/2412.15649) 
+<sub>[paper](https://arxiv.org/abs/2412.15649) / [demo](https://slam-omni.github.io/)</sub>
 
 
 **SLAM-AAC: Enhancing Audio Captioning with Paraphrasing Augmentation and CLAP-Refine through LLMs**\
 <sub>**Wenxi Chen\***, Ziyang Ma\*, Xiquan Li, Xuenan Xu, Yuzhe Liang, Zhisheng Zheng, Kai Yu, Xie Chen</sub>\
 <sub>*ICASSP, 2025*</sub>\
-<sub>[paper](https://arxiv.org/abs/2410.09503) / [code](https://github.com/X-LANCE/SLAM-LLM/tree/main/examples/slam_aac)
+<sub>[paper](https://arxiv.org/abs/2410.09503) / [code](https://github.com/X-LANCE/SLAM-LLM/tree/main/examples/slam_aac)</sub>
 <!-- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/slam-aac-enhancing-audio-captioning-with/audio-captioning-on-audiocaps)](https://paperswithcode.com/sota/audio-captioning-on-audiocaps?p=slam-aac-enhancing-audio-captioning-with)  [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/slam-aac-enhancing-audio-captioning-with/audio-captioning-on-clotho)](https://paperswithcode.com/sota/audio-captioning-on-clotho?p=slam-aac-enhancing-audio-captioning-with)\ -->
 
 **DRCap: Decoding CLAP Latents with Retrieval-augmented Generation for Zero-shot Audio Captioning**\
 <sub>Xiquan Li, **Wenxi Chen**, Ziyang Ma, Xuenan Xu, Yuzhe Liang, Zhisheng Zheng, Qiuqiang Kong, Xie Chen</sub>\
 <sub>*ICASSP, 2025*</sub>\
-<sub>[paper](https://arxiv.org/abs/2410.09472) / [code](https://github.com/X-LANCE/SLAM-LLM/tree/main/examples/drcap_zeroshot_aac)
+<sub>[paper](https://arxiv.org/abs/2410.09472) / [code](https://github.com/X-LANCE/SLAM-LLM/tree/main/examples/drcap_zeroshot_aac)</sub>
 
 **EmoBox: Multilingual Multi-corpus Speech Emotion Recognition Toolkit and Benchmark**  
 <sub>Ziyang Ma, Mingjie Chen, Hezhao Zhang, Zhisheng Zheng, **Wenxi Chen**, Xiquan Li, Jiaxin Ye, Xie Chen, Thomas Hain</sub>\
