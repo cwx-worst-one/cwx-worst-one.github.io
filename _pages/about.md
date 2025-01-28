@@ -32,7 +32,7 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 **SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**\
 <sub>**Wenxi Chen**, Ziyang Ma, Ruiqi Yan, Yuzhe Liang, Xiquan Li, Ruiyang Xu, Zhikang Niu, Yanqiao Zhu, Yifan Yang, Zhanxun Liu, Kai Yu, Yuxuan Hu, Jinyu Li, Yan Lu, Shujie Liu, Xie Chen</sub>\
 <sub>*Preprint*</sub>\
-<sub>[paper](https://arxiv.org/abs/2412.15649) / [demo](https://slam-omni.github.io/)</sub>
+<sub>[paper](https://arxiv.org/abs/2412.15649) / [demo](https://slam-omni.github.io/) / [code](https://github.com/X-LANCE/SLAM-LLM/tree/main/examples/s2s)</sub>
 
 
 **SLAM-AAC: Enhancing Audio Captioning with Paraphrasing Augmentation and CLAP-Refine through LLMs**\
