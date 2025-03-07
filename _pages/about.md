@@ -29,6 +29,12 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 
 
 <!-- *Speech Translation* -->
+**URO-Bench: A Comprehensive Benchmark for End-to-End Spoken Dialogue Models**\
+<sub>Ruiqi Yan, Xiquan Li, **Wenxi Chen**, Chen Yang, Ziyang Ma, Kai Yu, Xie Chen</sub>\
+<sub>*Preprint*</sub>\
+<sub>[paper](https://arxiv.org/abs/2502.17810) / [code](https://github.com/Ruiqi-Yan/URO-Bench)</sub>
+
+
 **SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**\
 <sub>**Wenxi Chen**, Ziyang Ma, Ruiqi Yan, Yuzhe Liang, Xiquan Li, Ruiyang Xu, Zhikang Niu, Yanqiao Zhu, Yifan Yang, Zhanxun Liu, Kai Yu, Yuxuan Hu, Jinyu Li, Yan Lu, Shujie Liu, Xie Chen</sub>\
 <sub>*Preprint*</sub>\
