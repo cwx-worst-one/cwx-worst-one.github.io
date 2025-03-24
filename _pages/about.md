@@ -49,12 +49,12 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 
 **DRCap: Decoding CLAP Latents with Retrieval-augmented Generation for Zero-shot Audio Captioning**\
 <sub>Xiquan Li, **Wenxi Chen**, Ziyang Ma, Xuenan Xu, Yuzhe Liang, Zhisheng Zheng, Qiuqiang Kong, Xie Chen</sub>\
-<sub>*ICASSP, 2025*</sub>\
+<sub>*ICASSP, 2025 (oral)*</sub>\
 <sub>[paper](https://arxiv.org/abs/2410.09472) / [code](https://github.com/X-LANCE/SLAM-LLM/tree/main/examples/drcap_zeroshot_aac)</sub>
 
 **EmoBox: Multilingual Multi-corpus Speech Emotion Recognition Toolkit and Benchmark**  
 <sub>Ziyang Ma, Mingjie Chen, Hezhao Zhang, Zhisheng Zheng, **Wenxi Chen**, Xiquan Li, Jiaxin Ye, Xie Chen, Thomas Hain</sub>\
-<sub>*Interspeech, 2024*</sub>\
+<sub>*Interspeech, 2024 (oral)*</sub>\
 <sub>[paper](https://www.isca-archive.org/interspeech_2024/ma24b_interspeech.pdf) / [code](https://github.com/emo-box/EmoBox)</sub>
 
 **EAT: Self-Supervised Pre-Training with Efficient Audio Transformer**\
@@ -80,8 +80,8 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 
 ### Experience
 Research Intern @ [Microsoft Research Asia (MSRA)](https://www.msra.cn/)  
-NLC Group, Beijing, China  
-<sub>*2024.9-CURRENT*</sub>  
+General Artificial Intelligence Group, Beijing, China  
+<sub>*2024.09-2025.03*</sub>  
 
 
 ### Competition
