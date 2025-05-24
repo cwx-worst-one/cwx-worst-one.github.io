@@ -29,37 +29,37 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 
 
 <!-- *Speech Translation* -->
-**URO-Bench: A Comprehensive Benchmark for End-to-End Spoken Dialogue Models**\
-<sub>Ruiqi Yan, Xiquan Li, **Wenxi Chen**, Chen Yang, Ziyang Ma, Kai Yu, Xie Chen</sub>\
-<sub>*Preprint*</sub>\
-<sub>[paper](https://arxiv.org/abs/2502.17810) / [code](https://github.com/Ruiqi-Yan/URO-Bench)</sub>
+**SimulS2S-LLM: Unlocking Simultaneous Inference of Speech LLMs for Speech-to-Speech Translation**\
+<sub>Keqi Deng, **Wenxi Chen**, Xie Chen, Phil Woodland</sub>\
+<sub>*ACL 2025*</sub>\
+<sub>[paper](https://arxiv.org/abs/2504.15509)</sub>
 
 
 **SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**\
 <sub>**Wenxi Chen**, Ziyang Ma, Ruiqi Yan, Yuzhe Liang, Xiquan Li, Ruiyang Xu, Zhikang Niu, Yanqiao Zhu, Yifan Yang, Zhanxun Liu, Kai Yu, Yuxuan Hu, Jinyu Li, Yan Lu, Shujie Liu, Xie Chen</sub>\
-<sub>*Preprint*</sub>\
+<sub>*ACL 2025 (Findings)*</sub>\
 <sub>[paper](https://arxiv.org/abs/2412.15649) / [demo](https://slam-omni.github.io/) / [code](https://github.com/X-LANCE/SLAM-LLM/tree/main/examples/s2s)</sub>
 
 
 **SLAM-AAC: Enhancing Audio Captioning with Paraphrasing Augmentation and CLAP-Refine through LLMs**\
 <sub>**Wenxi Chen\***, Ziyang Ma\*, Xiquan Li, Xuenan Xu, Yuzhe Liang, Zhisheng Zheng, Kai Yu, Xie Chen</sub>\
-<sub>*ICASSP, 2025*</sub>\
+<sub>*ICASSP 2025*</sub>\
 <sub>[paper](https://arxiv.org/abs/2410.09503) / [code](https://github.com/X-LANCE/SLAM-LLM/tree/main/examples/slam_aac)</sub>
 <!-- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/slam-aac-enhancing-audio-captioning-with/audio-captioning-on-audiocaps)](https://paperswithcode.com/sota/audio-captioning-on-audiocaps?p=slam-aac-enhancing-audio-captioning-with)  [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/slam-aac-enhancing-audio-captioning-with/audio-captioning-on-clotho)](https://paperswithcode.com/sota/audio-captioning-on-clotho?p=slam-aac-enhancing-audio-captioning-with)\ -->
 
 **DRCap: Decoding CLAP Latents with Retrieval-augmented Generation for Zero-shot Audio Captioning**\
 <sub>Xiquan Li, **Wenxi Chen**, Ziyang Ma, Xuenan Xu, Yuzhe Liang, Zhisheng Zheng, Qiuqiang Kong, Xie Chen</sub>\
-<sub>*ICASSP, 2025 (oral)*</sub>\
+<sub>*ICASSP 2025 (oral)*</sub>\
 <sub>[paper](https://arxiv.org/abs/2410.09472) / [code](https://github.com/X-LANCE/SLAM-LLM/tree/main/examples/drcap_zeroshot_aac)</sub>
 
-**EmoBox: Multilingual Multi-corpus Speech Emotion Recognition Toolkit and Benchmark**  
+<!-- **EmoBox: Multilingual Multi-corpus Speech Emotion Recognition Toolkit and Benchmark**  
 <sub>Ziyang Ma, Mingjie Chen, Hezhao Zhang, Zhisheng Zheng, **Wenxi Chen**, Xiquan Li, Jiaxin Ye, Xie Chen, Thomas Hain</sub>\
-<sub>*Interspeech, 2024 (oral)*</sub>\
-<sub>[paper](https://www.isca-archive.org/interspeech_2024/ma24b_interspeech.pdf) / [code](https://github.com/emo-box/EmoBox)</sub>
+<sub>*Interspeech 2024 (oral)*</sub>\
+<sub>[paper](https://www.isca-archive.org/interspeech_2024/ma24b_interspeech.pdf) / [code](https://github.com/emo-box/EmoBox)</sub> -->
 
 **EAT: Self-Supervised Pre-Training with Efficient Audio Transformer**\
 <sub>**Wenxi Chen**, Yuzhe Liang, Ziyang Ma, Zhisheng Zheng, Xie Chen</sub>\
-<sub>*IJCAI, 2024*</sub>\
+<sub>*IJCAI 2024*</sub>\
 <sub>[paper](https://www.ijcai.org/proceedings/2024/0421.pdf) / [code](https://github.com/cwx-worst-one/EAT)</sub>
 <!-- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/eat-self-supervised-pre-training-with/audio-classification-on-balanced-audio-set)](https://paperswithcode.com/sota/audio-classification-on-balanced-audio-set?p=eat-self-supervised-pre-training-with)\ -->
 
