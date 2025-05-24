@@ -81,7 +81,7 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 ### Experience
 Research Intern @ [Microsoft Research Asia (MSRA)](https://www.msra.cn/)  
 General Artificial Intelligence Group, Beijing, China  
-<sub>*2024.09-2025.03*</sub>  
+<sub>*2024.09-CURRENT*</sub>  
 
 
 ### Competition
