@@ -81,7 +81,7 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 ### Experience
 Research Intern @ [Microsoft Research Asia (MSRA)](https://www.msra.cn/)  
 General Artificial Intelligence Group & Speech Team, Beijing, China  
-Co-advised by Dr. [Shujie Liu](https://www.microsoft.com/en-us/research/people/shujliu/) & Dr. [Jinyu Li](https://www.microsoft.com/en-us/research/people/jinyli/)
+Co-advised by Dr. [Shujie Liu](https://www.microsoft.com/en-us/research/people/shujliu/) & Dr. [Jinyu Li](https://www.microsoft.com/en-us/research/people/jinyli/)  
 <sub>*2024.09-2025.06*</sub>  
 
 
