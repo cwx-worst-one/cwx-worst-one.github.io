@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-Hi! Here is Wenxi Chen (陈文熙). I am an undergraduate student at  Shanghai Jiao Tong University (SJTU), majoring in computer science.  Since 2023, I have been working as a research intern at the [X-Lance Lab](https://x-lance.sjtu.edu.cn) at SJTU, under the supervision of Prof. [Xie Chen](https://chenxie95.github.io/).
+Hi! Here is Wenxi Chen (陈文熙). I am a recent graduate from Shanghai Jiao Tong University (SJTU), where I earned my Bachelor's degree in Computer Science (IEEE pilot class).  Since 2023, I have been working as a research intern at the [X-Lance Lab](https://x-lance.sjtu.edu.cn) at SJTU, under the supervision of Prof. [Xie Chen](https://chenxie95.github.io/).
 
 
 I'm generally interested in understanding & generation in speech and audio, as well as multimodal large language models. My previous projects have involved audio self-supervised learning, audio scene classification, audio captioning and end-to-end spoken dialogue models. 
@@ -80,8 +80,9 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 
 ### Experience
 Research Intern @ [Microsoft Research Asia (MSRA)](https://www.msra.cn/)  
-General Artificial Intelligence Group, Beijing, China  
-<sub>*2024.09-CURRENT*</sub>  
+General Artificial Intelligence Group & Speech Team, Beijing, China  
+Co-advised by Dr. [Shujie Liu](https://www.microsoft.com/en-us/research/people/shujliu/) & Dr. [Jinyu Li](https://www.microsoft.com/en-us/research/people/jinyli/)
+<sub>*2024.09-2025.06*</sub>  
 
 
 ### Competition
