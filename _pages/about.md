@@ -79,6 +79,11 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 ## Activities
 
 ### Experience
+Research Intern @ [Soul App](https://www.soulapp.cn/)  
+Speech Team, Shanghai, China  
+<sub>*2025.07-CURRENT*</sub>
+<!-- Advised by Dr. [Shujie Liu](https://www.microsoft.com/en-us/research/people/shujliu/) -->
+  
 Research Intern @ [Microsoft Research Asia (MSRA)](https://www.msra.cn/)  
 General Artificial Intelligence Group & Speech Team, Beijing, China  
 Co-advised by Dr. [Shujie Liu](https://www.microsoft.com/en-us/research/people/shujliu/) & Dr. [Jinyu Li](https://www.microsoft.com/en-us/research/people/jinyli/)  
