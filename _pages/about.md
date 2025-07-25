@@ -80,7 +80,7 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 
 ### Experience
 Research Intern @ [Soul App](https://www.soulapp.cn/)  
-Speech Team, Shanghai, China  
+Multimodal Interaction Group, Shanghai, China  
 <sub>*2025.07-CURRENT*</sub>
 <!-- Advised by Dr. [Shujie Liu](https://www.microsoft.com/en-us/research/people/shujliu/) -->
   
