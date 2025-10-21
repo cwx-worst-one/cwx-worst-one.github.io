@@ -10,10 +10,10 @@ redirect_from:
 
 # About Me
 
-Hi! Here is Wenxi Chen (陈文熙). I am a recent graduate from Shanghai Jiao Tong University (SJTU), where I earned my Bachelor's degree in Computer Science (IEEE pilot class).  Since 2023, I have been working as a research intern at the [X-Lance Lab](https://x-lance.sjtu.edu.cn) at SJTU, under the supervision of Prof. [Xie Chen](https://chenxie95.github.io/).
+Hi! I’m Wenxi Chen (陈文熙). I am currently a first-year Ph.D. student at the [X-Lance Lab](https://x-lance.sjtu.edu.cn), Shanghai Jiao Tong University (SJTU), under the supervision of Prof. [Xie Chen](https://chenxie95.github.io/). I received my Bachelor's degree in Computer Science (IEEE Pilot Class) from SJTU in 2025.
 
 
-I'm generally interested in understanding & generation in speech and audio, as well as multimodal large language models. My previous projects have involved audio self-supervised learning, audio scene classification, audio captioning and end-to-end spoken dialogue models. 
+I'm generally interested in understanding & generation in speech and audio, as well as multimodal large language models. My previous projects have involved audio self-supervised learning, audio captioning and end-to-end spoken dialogue models. 
 
 
 <!-- ## Recent News
@@ -29,6 +29,11 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 
 
 <!-- *Speech Translation* -->
+**SAC: Neural Speech Codec with Semantic-Acoustic Dual-Stream Quantization**\
+<sub>**Wenxi Chen**, Xinsheng Wang, Ruiqi Yan, Yushen Chen, Zhikang Niu, Ziyang Ma, Xiquan Li, Yuzhe Liang, Hanlin Wen, Shunshun Yin, Ming Tao, Xie Chen</sub>\
+<sub>*arxiv 2025*</sub>\
+<sub>[paper](https://arxiv.org/abs/2510.16841) / [demo](https://sac-codec.github.io/) / [code](https://github.com/Soul-AILab/SAC)</sub>
+
 **SimulS2S-LLM: Unlocking Simultaneous Inference of Speech LLMs for Speech-to-Speech Translation**\
 <sub>Keqi Deng, **Wenxi Chen**, Xie Chen, Phil Woodland</sub>\
 <sub>*ACL 2025*</sub>\
@@ -37,7 +42,7 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 
 **SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**\
 <sub>**Wenxi Chen**, Ziyang Ma, Ruiqi Yan, Yuzhe Liang, Xiquan Li, Ruiyang Xu, Zhikang Niu, Yanqiao Zhu, Yifan Yang, Zhanxun Liu, Kai Yu, Yuxuan Hu, Jinyu Li, Yan Lu, Shujie Liu, Xie Chen</sub>\
-<sub>*ACL 2025 (Findings)*</sub>\
+<sub>*ACL 2025 Findings*</sub>\
 <sub>[paper](https://arxiv.org/abs/2412.15649) / [demo](https://slam-omni.github.io/) / [code](https://github.com/X-LANCE/SLAM-LLM/tree/main/examples/s2s)</sub>
 
 
@@ -81,8 +86,8 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 ### Experience
 Research Intern @ [Soul App](https://www.soulapp.cn/)  
 Multimodal Interaction Group, Shanghai, China  
+Advised by Dr. [Xinsheng Wang](https://xinshengwang.github.io/)
 <sub>*2025.07-CURRENT*</sub>
-<!-- Advised by Dr. [Shujie Liu](https://www.microsoft.com/en-us/research/people/shujliu/) -->
   
 Research Intern @ [Microsoft Research Asia (MSRA)](https://www.msra.cn/)  
 General Artificial Intelligence Group & Speech Team, Beijing, China  
