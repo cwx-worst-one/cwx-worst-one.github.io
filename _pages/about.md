@@ -86,7 +86,7 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 ### Experience
 Research Intern @ [Soul App](https://www.soulapp.cn/)  
 Multimodal Interaction Group, Shanghai, China  
-Advised by Dr. [Xinsheng Wang](https://xinshengwang.github.io/)
+Advised by Dr. [Xinsheng Wang](https://xinshengwang.github.io/)  
 <sub>*2025.07-CURRENT*</sub>
   
 Research Intern @ [Microsoft Research Asia (MSRA)](https://www.msra.cn/)  
