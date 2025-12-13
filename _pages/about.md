@@ -84,14 +84,19 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 ## Activities
 
 ### Experience
+Research Intern @ [ByteDance](https://www.bytedance.com/en)  
+Seed Speech Team, Shanghai, China  
+Co-advised by [Dongya Jia](https://scholar.google.com/citations?user=o2ucdzsAAAAJ&hl=en&oi=ao) & [Zhuo Chen](https://scholar.google.com/citations?user=pT8paUkAAAAJ&hl=en) 
+<sub>*2025.12-PRESENT*</sub>
+
 Research Intern @ [Soul App](https://www.soulapp.cn/)  
 Multimodal Interaction Group, Shanghai, China  
-Advised by Dr. [Xinsheng Wang](https://xinshengwang.github.io/)  
-<sub>*2025.07-CURRENT*</sub>
+Advised by [Xinsheng Wang](https://xinshengwang.github.io/)  
+<sub>*2025.07-2025.12*</sub>
   
 Research Intern @ [Microsoft Research Asia (MSRA)](https://www.msra.cn/)  
 General Artificial Intelligence Group & Speech Team, Beijing, China  
-Co-advised by Dr. [Shujie Liu](https://www.microsoft.com/en-us/research/people/shujliu/) & Dr. [Jinyu Li](https://www.microsoft.com/en-us/research/people/jinyli/)  
+Co-advised by [Shujie Liu](https://www.microsoft.com/en-us/research/people/shujliu/) & [Jinyu Li](https://www.microsoft.com/en-us/research/people/jinyli/)  
 <sub>*2024.09-2025.06*</sub>  
 
 
