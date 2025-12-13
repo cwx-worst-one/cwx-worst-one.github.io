@@ -86,7 +86,7 @@ For the most up-to-date information, please visit my [Google Scholar](https://sc
 ### Experience
 Research Intern @ [ByteDance](https://www.bytedance.com/en)  
 Seed Speech Team, Shanghai, China  
-Co-advised by [Dongya Jia](https://scholar.google.com/citations?user=o2ucdzsAAAAJ&hl=en&oi=ao) & [Zhuo Chen](https://scholar.google.com/citations?user=pT8paUkAAAAJ&hl=en) 
+Co-advised by [Dongya Jia](https://scholar.google.com/citations?user=o2ucdzsAAAAJ&hl=en&oi=ao) & [Zhuo Chen](https://scholar.google.com/citations?user=pT8paUkAAAAJ&hl=en)  
 <sub>*2025.12-PRESENT*</sub>
 
 Research Intern @ [Soul App](https://www.soulapp.cn/)  
