@@ -4,6 +4,20 @@
 
 For the most up-to-date publication list, please visit my [Google Scholar](https://scholar.google.com/citations?user=7YPoSY0AAAAJ&hl=en) profile. (* indicates equal contribution)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/papers/wavtts.png' alt="WavTTS overview image" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[WavTTS: Towards High-Quality Zero-Shot TTS via Direct Raw Waveform Modeling](https://arxiv.org/abs/2606.03455)
+
+**Wenxi Chen**, Dongya Jia, Yushen Chen, Zhikang Niu, Yuzhe Liang, Xiquan Li, Ruiqi Yan, Ziyang Ma, Guanrou Yang, Sanyuan Chen, Yue Wang, Zhuo Chen, Kai Yu, Xie Chen
+
+[**Paper**](https://arxiv.org/abs/2606.03455) [**Demo**](https://wavtts.github.io) [**Code**](https://github.com/cwx-worst-one/WavTTS) [![](https://img.shields.io/github/stars/cwx-worst-one/WavTTS?style=social)](https://github.com/cwx-worst-one/WavTTS)
+
+- An exploration of an end-to-end zero-shot TTS system that directly models speech in the native raw waveform space.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Main</div><img src='images/papers/sac.png' alt="SAC placeholder image" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
